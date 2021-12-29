@@ -35,7 +35,7 @@
   Executável: [Boletim.exe](exe/boletim_01.exe)
 
   ---
-**2. Calculo e Análise de Aposentadorias**
+**2. Cálculo e Análise de Aposentadorias**
 
 <img src="img/controleInss.gif"/>
 
@@ -65,7 +65,7 @@ Executável: [GerenciadorQuitanda.exe](exe/GerenciadorQuitanda_04.exe)
 
 ---
 
-**5. Jogo da Gorca (HangMan Game)**
+**5. Jogo da Forca (HangMan Game)**
 
 <img src="img/jogoForca.gif"/>
 
@@ -192,9 +192,3 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ### Créditos das imagens
 - Badges por [Alexandre Sanlim]('https://github.com/alexandresanlim')
-
-## Talvez você goste (mais conteúdo)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasaacampos&repo=portifolio" />
-</a>
