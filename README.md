@@ -27,6 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 
 **1. Boletim**
+
   <img src="img/boletim.gif"/>
 
   Source code: [Boletim](src/boletim_01.prg)
@@ -35,6 +36,7 @@
 
   ---
 **2. Calculo e Análise de Aposentadorias**
+
 <img src="img/controleInss.gif"/>
 
 Source code: [Calculo e Análise de Aposentadorias](src/controleAposentadoria_02.prg)
@@ -44,15 +46,19 @@ Executável: [ControleAposentadoria.exe](exe/controleAposentadoria_02.exe)
   ---
 
 **3. Controle Restaurante**
+
 <img src="img/controleRestaurante.gif"/>
-Source code: [Controle Restaurante](src/controleRestaurante_03.prg)
+
+Source code:[Controle Restaurante](src/controleRestaurante_03.prg)
 
 Executável: [ControleRestaurante.exe](exe/controleRestaurante_03.exe)
 
 ---
 
 **4. Gerenciador de Quitanda**
+
 <img src="img/frutaria.gif"/>
+
 Source code: [Gerenciador de Quitanda](src/GerenciadorQuitanda_04.prg)
 
 Executável: [GerenciadorQuitanda.exe](exe/GerenciadorQuitanda_04.exe)
@@ -60,15 +66,19 @@ Executável: [GerenciadorQuitanda.exe](exe/GerenciadorQuitanda_04.exe)
 ---
 
 **5. Jogo da Gorca (HangMan Game)**
+
 <img src="img/jogoForca.gif"/>
-Source code: [Jogo da Gorca (HangMan Game)](src/jogoForca_HangmanGame_05.prg)
+
+Source code: [Jogo da Forca (HangMan Game)](src/jogoForca_HangmanGame_05.prg)
 
 Executável: [JogoForca.exe](exe/jogoForca_HangmanGame_05.exe)
 
 ---
     
 **6. Controle para Assistência Técnica**
+
 <img src="img/assistenciaTecnica.gif"/>
+
 Source code: [Controle para Assistência Técnica](src/assistenciaTecnica_06.prg)
 
 Executável: [AssistenciaTecnica.exe](exe/assistenciaTecnica_06.exe)
@@ -76,14 +86,22 @@ Executável: [AssistenciaTecnica.exe](exe/assistenciaTecnica_06.exe)
 ---
 
 **7. Utilitários**
+
 <img src="img/utilitarios.gif"/>
+
 Source code: [Utilitários](src/utilitarios_07.prg)
+
+Executável: [Utilitarios.exe](exe/utilitarios_07.exe)
 
 ---
 
 **8. Controle de Caixa Mercadinho**
+
 <img src="img/mercado.gif"/>
+
 Source code: [Controle de Caixa Mercadinho](src/mercado.prg)
+
+Executável: [Mercadinho.exe](exe/mercado.exe)
 
 ---
 
